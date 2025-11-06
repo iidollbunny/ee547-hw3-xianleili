@@ -1,0 +1,2 @@
+# Only one external package per assignment rules
+psycopg2-binary>=2.9.9

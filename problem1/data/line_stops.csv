@@ -1,0 +1,232 @@
+line_name,stop_name,sequence,time_offset
+Route 204,Vermont / 120th,1,0
+Route 204,Vermont / Athens Station,2,2
+Route 204,Vermont / Imperial,3,3
+Route 204,Vermont / 112th,4,3
+Route 204,Vermont / 110th,5,4
+Route 204,Vermont / 108th,6,5
+Route 204,Vermont / 104th,7,7
+Route 204,Vermont / 103rd,8,7
+Route 204,Vermont / Century,9,8
+Route 204,Vermont / Colden,10,9
+Route 204,Vermont / 94th,11,10
+Route 204,Vermont / 92nd,12,10
+Route 204,Vermont / 90th,13,11
+Route 204,Vermont / 88th,14,12
+Route 204,Vermont / 83rd,15,14
+Route 204,Vermont / 81st,16,14
+Route 204,Vermont / 79th,17,15
+Route 204,Vermont / 76th,18,16
+Route 204,Vermont / Florence,19,18
+Route 204,Vermont / 66th,20,19
+Route 204,Vermont / Gage,21,20
+Route 207,Western / Imperial,1,0
+Route 207,Western / 110th,2,1
+Route 207,Western / 108th,3,2
+Route 207,Western / 104th,4,3
+Route 207,Western / Century,5,4
+Route 207,Western / 96th,6,5
+Route 207,Western / 92nd,7,6
+Route 207,Western / 89th,8,7
+Route 207,Western / Manchester,9,8
+Route 207,Western / 83rd,10,9
+Route 207,Western / 79th,11,10
+Route 207,Western / 76th,12,12
+Route 207,Western / Florence,13,13
+Route 207,Western / 69th,14,14
+Route 207,Western / 67th,15,14
+Route 207,Western / Gage,16,15
+Route 207,Western / 62nd,17,16
+Route 207,Western / 60th,18,16
+Route 207,Western / Slauson,19,17
+Route 207,Western / 54th,20,19
+Route 207,Western / 51st,21,20
+Route 754,Vermont / 120th,1,0
+Route 754,Vermont / Athens Station,2,2
+Route 754,Vermont / Century,3,7
+Route 754,Vermont / 88th,4,11
+Route 754,Vermont / Florence,5,16
+Route 754,Vermont / Slauson,6,20
+Route 754,Vermont / Vernon,7,24
+Route 754,Vermont / Martin Luther King Jr,8,26
+Route 754,Vermont / Exposition,9,28
+Route 754,Vermont / Jefferson,10,30
+Route 754,Vermont / Adams,11,32
+Route 754,Vermont / Washington,12,35
+Route 754,Vermont / Venice,13,37
+Route 754,Vermont / Pico,14,38
+Route 754,Vermont / Olympic,15,40
+Route 754,Vermont / 8th,16,42
+Route 754,Vermont / Wilshire,17,44
+Route 754,Vermont / 3rd,18,46
+Route 754,Vermont / Beverly,19,49
+Route 754,Vermont / Melrose,20,51
+Route 754,Vermont / Santa Monica,21,54
+Route 62,Gridley / 187th,1,0
+Route 62,Gridley / 183rd,2,1
+Route 62,183rd / Alburtis,3,2
+Route 62,Pioneer / 178th,4,4
+Route 62,Pioneer / Artesia,5,5
+Route 62,Pioneer / 168th,6,6
+Route 62,Pioneer / 166th,7,6
+Route 62,Pioneer / 163rd,8,7
+Route 62,Pioneer / Alondra,9,8
+Route 62,Pioneer / Cheshire,10,9
+Route 62,Pioneer / Excelsior,11,10
+Route 62,Pioneer / Mapledale,12,11
+Route 62,San Antonio / Rosecrans,13,12
+Route 62,San Antonio / Orange,14,13
+Route 62,San Antonio / Foster,15,14
+Route 62,San Antonio / Firestone,16,14
+Route 62,San Antonio / Olive,17,15
+Route 62,Norwalk / Civic Center,18,16
+Route 62,Norwalk / Imperial,19,17
+Route 62,Norwalk / Crewe,20,18
+Route 62,Norwalk / Tina,21,19
+Route 20,5th / Colorado,1,0
+Route 20,5th / Colorado,2,0
+Route 20,5th / Santa Monica,3,2
+Route 20,Wilshire / 6th,4,4
+Route 20,Wilshire / Lincoln,5,5
+Route 20,Wilshire / 11th,6,6
+Route 20,Wilshire / 14th,7,7
+Route 20,Wilshire / 17th,8,8
+Route 20,Wilshire / 20th,9,8
+Route 20,Wilshire / 23rd,10,9
+Route 20,Wilshire / 26th,11,10
+Route 20,Wilshire / Yale,12,10
+Route 20,Wilshire / Berkeley,13,11
+Route 20,Wilshire / McClellan,14,11
+Route 20,Wilshire / Bundy,15,12
+Route 20,Wilshire / Brockton,16,12
+Route 20,Wilshire / Westgate,17,13
+Route 20,Wilshire / Barrington,18,13
+Route 20,Wilshire / Federal,19,14
+Route 20,Wilshire / Bonsall,20,15
+Route 20,Wilshire / Veteran,21,17
+Route 2,Le Conte / Broxton,1,0
+Route 2,Le Conte / Westwood,2,2
+Route 2,Le Conte / Tiverton,3,2
+Route 2,Hilgard / Le Conte,4,3
+Route 2,Hilgard / Manning,5,3
+Route 2,Hilgard / Westholme,6,4
+Route 2,Hilgard / Wyton,7,5
+Route 2,Hilgard / Charing Cross,8,6
+Route 2,Sunset / Beverly Glen,9,7
+Route 2,Sunset / Charing Cross,10,9
+Route 2,Sunset / Carolwood,11,10
+Route 2,Sunset / Copley,12,11
+Route 2,Sunset / Whittier,13,11
+Route 2,Sunset / Bedford,14,12
+Route 2,Sunset / Rodeo,15,13
+Route 2,Sunset / Beverly,16,13
+Route 2,Sunset / Rexford,17,13
+Route 2,Sunset / Alpine,18,14
+Route 2,Sunset / Foothill,19,14
+Route 2,Sunset / Maple,20,15
+Route 2,Sunset / Hillcrest,21,16
+Route 217,Washington Fairfax Terminal,1,0
+Route 217,Washington Fairfax Hub,2,2
+Route 217,Fairfax / Venice,3,3
+Route 217,Fairfax / Venice,4,3
+Route 217,Fairfax / 18th,5,4
+Route 217,Fairfax / Airdrome,6,5
+Route 217,Fairfax / Saturn,7,6
+Route 217,Fairfax / Pico,8,6
+Route 217,Fairfax / Whitworth,9,7
+Route 217,Fairfax / Olympic,10,8
+Route 217,Fairfax / San Vicente,11,8
+Route 217,Fairfax / 8th,12,9
+Route 217,Fairfax / Wilshire,13,10
+Route 217,Fairfax / 6th,14,10
+Route 217,Fairfax / Drexel,15,11
+Route 217,Fairfax / 3rd,16,12
+Route 217,Fairfax / 1st,17,12
+Route 217,Fairfax / Beverly,18,13
+Route 217,Fairfax / Oakwood,19,14
+Route 217,Fairfax / Rosewood,20,14
+Route 217,Fairfax / Melrose,21,15
+Route 33,Division 13 Layover,1,0
+Route 33,Patsaouras Transit Plaza,2,5
+Route 33,Cesar E Chavez / Alameda,3,8
+Route 33,Spring / Temple,4,10
+Route 33,Spring / 1st,5,10
+Route 33,Spring / 3rd,6,12
+Route 33,Spring / 6th,7,13
+Route 33,Spring / 7th,8,14
+Route 33,Main / 9th,9,21
+Route 33,Main / 11th,10,22
+Route 33,Main / Pico,11,23
+Route 33,17th / Broadway,12,25
+Route 33,Venice / Hill,13,26
+Route 33,Venice / Grand,14,26
+Route 33,Venice / Hope,15,27
+Route 33,Venice / Figueroa,16,28
+Route 33,Venice / Oak,17,29
+Route 33,Venice / Union,18,30
+Route 33,Venice / Burlington,19,31
+Route 33,Venice / Hoover,20,32
+Route 33,Venice / Magnolia,21,33
+Route 720,Alameda / 6th Layover,1,0
+Route 720,Central / 6th,2,3
+Route 720,5th / San Pedro,3,5
+Route 720,5th / Main,4,7
+Route 720,5th / Broadway,5,8
+Route 720,5th / Grand,6,10
+Route 720,6th / Witmer,7,14
+Route 720,Wilshire / Alvarado,8,18
+Route 720,Wilshire / Coronado,9,21
+Route 720,Wilshire / Vermont,10,24
+Route 720,Wilshire / Normandie,11,27
+Route 720,Wilshire / Western,12,29
+Route 720,Wilshire / Crenshaw,13,32
+Route 720,Wilshire / La Brea,14,39
+Route 720,Wilshire / Cloverdale,15,40
+Route 720,Wilshire / Fairfax,16,44
+Route 720,Wilshire / Crescent Heights,17,45
+Route 720,Wilshire / Willaman,18,51
+Route 720,Wilshire / Robertson,19,52
+Route 720,Wilshire / Rexford,20,56
+Route 720,Wilshire / Rodeo,21,58
+Route 4,Broadway / Venice,1,0
+Route 4,Broadway / Pico,2,1
+Route 4,Broadway / 12th,3,2
+Route 4,Broadway / Olympic,4,4
+Route 4,Broadway / 8th,5,5
+Route 4,Broadway / 7th,6,6
+Route 4,Broadway / 5th,7,7
+Route 4,Broadway / 2nd,8,9
+Route 4,Broadway / 1st,9,10
+Route 4,Broadway / Arcadia,10,11
+Route 4,Cesar E Chavez / Broadway,11,13
+Route 4,Cesar E Chavez / Grand,12,14
+Route 4,Sunset / Figueroa,13,15
+Route 4,Sunset / Beaudry,14,16
+Route 4,Sunset / Marion,15,16
+Route 4,Sunset / Vin Scully - Dodger Stadium,16,17
+Route 4,Sunset / Douglas,17,18
+Route 4,Sunset / Portia,18,18
+Route 4,Sunset / Echo Park,19,19
+Route 4,Sunset / Park,20,20
+Route 4,Sunset / Alvarado,21,20
+Route 60,Artesia Station,1,0
+Route 60,Acacia / Walnut,2,1
+Route 60,Artesia / Santa Fe,3,3
+Route 60,Artesia / Susana,4,4
+Route 60,Long Beach / Artesia,5,5
+Route 60,Long Beach / 67th,6,6
+Route 60,Long Beach / 69th,7,6
+Route 60,Long Beach / Greenleaf,8,7
+Route 60,Long Beach / Bennett,9,7
+Route 60,Long Beach / Marcelle,10,8
+Route 60,Long Beach / Alondra,11,9
+Route 60,Long Beach / Myrrh,12,9
+Route 60,Long Beach / Compton,13,10
+Route 60,Long Beach / Palmer,14,11
+Route 60,Long Beach / Elm,15,11
+Route 60,Long Beach / Rosecrans,16,12
+Route 60,Long Beach / Ezmirlian,17,13
+Route 60,Long Beach / Pine,18,14
+Route 60,Long Beach / Euclid,19,15
+Route 60,Long Beach / Burton,20,16
+Route 60,Long Beach / Cedar,21,17
