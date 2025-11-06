@@ -1,5 +1,3 @@
-Name: Xianlei Li
-Email: xianleil@usc.edu
 Instructions:
     cd problem1
     chmod +x build.sh run.sh test.sh   # one-time

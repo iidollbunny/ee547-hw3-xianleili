@@ -1,5 +1,3 @@
-Name: Xianlei Li
-Email: xianleil@usc.edu
 Instructions:
 
 python query_papers.py recent cs.LG --limit 5 --table arxiv-papers
@@ -13,3 +11,7 @@ http://localhost:8081/papers/author/Hendrik%20Blockeel
 http://localhost:8081/papers/0110036v1
 http://localhost:8081/papers/search?category=cs.LG&start=2000-01-01&end=2001-12-31
 http://localhost:8081/papers/keyword/learning?limit=5
+
+AWS region：export AWS_DEFAULT_REGION="us-east-1"
+
+Design Decisions and Trade-offs: A denormalized DynamoDB schema was used to support efficient queries by category, author, keyword, and date. Global Secondary Indexes were added for authors, keywords, and paper IDs.
